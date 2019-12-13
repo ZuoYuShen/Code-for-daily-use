@@ -2,4 +2,5 @@
 Code for daily use, such as file reading, list transform
 
 2019-12-13: check for link.  
-2019-12-13: File reading and merging, may useful in some dataset preprocessing.
+2019-12-13: .txt File reading and merging, may useful in some dataset preprocessing.  
+2019-12-13: .csv File reading and plotting, with Matplotlib and polyfit, polyval (in numpy).
